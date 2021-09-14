@@ -2661,7 +2661,13 @@ input[type="radio"] + label:before {
 .image img {
 	border-radius: 0.25em;
 	display: block;
-	object-fit: cover;
+}
+
+.image embed {
+	border-radius: 0.25em;
+	display: block;
+	height: 800px;
+	width: 1000px;
 }
 
 .image.left,
