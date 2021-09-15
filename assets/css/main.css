@@ -3096,7 +3096,7 @@ body.is-ie .spotlights > section {
 }
 
 .spotlights > section > .image {
-	background-position: center center;
+	background-position: center;
 	background-size: cover;
 	border-radius: 0;
 	display: block;
@@ -3972,4 +3972,11 @@ body.is-preload #sidebar nav ul li {
 .prof-photo {
 	height: 300px;
 	/* width: 300px; */
+}
+
+.wrapper.fade-up > .dark-background {
+	background-color: rgba(0, 0, 0, 0.35);
+	/* padding: 15px; */
+	/* border-radius: 5px; */
+	/* box-shadow: 0px 0px 15px; */
 }
