@@ -3057,9 +3057,6 @@
 .fa-ravelry:before {
 	content: "\f2d9";
 }
-.fa-react:before {
-	content: "\f41b";
-}
 .fa-reacteurope:before {
 	content: "\f75d";
 }
@@ -4398,4 +4395,15 @@
 .fa,
 .fas {
 	font-weight: 900;
+}
+
+.section-display {
+	display: flex;
+	align-items: center;
+}
+
+.icon-display {
+	border-radius: 50%;
+	width: 60px;
+	max-height: 60px;
 }
