@@ -4403,7 +4403,7 @@
 }
 
 .icon-display {
-	border-radius: 50%;
+	/* border-radius: 50%; */
 	width: 50px;
 	max-height: 50px;
 }
