@@ -4406,7 +4406,10 @@
 	/* border-radius: 50%; */
 	width: 50px;
 	max-height: 50px;
-	margin-right: 1vw;
+}
+
+.skill-display {
+	margin-left: 2vw;
 }
 
 .text {
